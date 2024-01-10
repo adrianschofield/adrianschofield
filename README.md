@@ -1,12 +1,17 @@
 ### Hi there 👋
 
+Amateur but keen coder, interested in everything from games to APIs.
+
+- 🌱 I’m currently learning ... Godot
+- 🔭 I’m currently working on ... .Net REST API
+- 📫 How to reach me: ... Twitter 
 <!--
 **adrianschofield/adrianschofield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
