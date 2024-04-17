@@ -4,7 +4,9 @@ Amateur but keen coder, interested in everything from games to APIs.
 
 - 🌱 I’m currently learning ... Godot
 - 🔭 I’m currently working on ... .Net REST API
-- 📫 How to reach me: ... Twitter 
+- 📫 How to reach me: ... Twitter
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianschofield)](https://github.com/adrianschofield/github-readme-stats)
 <!--
 **adrianschofield/adrianschofield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
